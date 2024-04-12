@@ -43,6 +43,8 @@
 * 前端动画和交互、数据可视化设计、WebGL、Canvas、3D动画等
 * 前端国际化
 * 服务器端渲染（SSR）和静态网站生成（SSG）
+* **函数式编程、响应式编程、函数柯里化**
+* pnpm、turbo、rxjs、sigi、monorepo
 * 大前端/跨平台的发展方向(Flutter/Electron/Wails等)
 * Node 后端服务开发
 * 设计模式与编程思想的学习
