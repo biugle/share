@@ -13,6 +13,7 @@
 * Node的使用、版本控制(nvm)、常用配置、相关工具插件(nrm、pm2、nodemon等)。
 * 前端包管理、脚手架
 * 前端常用开发工具(抓包、浏览器插件、接口测试、性能监控(网站、代码)等)
+* 前端埋点、错误监控
 * 团队工具化建设
 
 ### 2. 基础知识&开发规范&代码质量管控(EsLint/Prettier/Husky等)
@@ -41,7 +42,7 @@
 * 小程序、H5
 * 数据交互和API调用设计
 * 前端动画和交互、数据可视化设计、WebGL、Canvas、3D动画等
-* 前端国际化
+* 前端国际化 i18n
 * 服务器端渲染（SSR）和静态网站生成（SSG）
 * **函数式编程、响应式编程、函数柯里化**
 * pnpm、turbo、rxjs、sigi、monorepo
@@ -59,7 +60,6 @@
 * https://github.com/heicx/FE-Article
 * https://github.com/SunLn/SunLn-F2E-Bookmarks
 * https://github.com/coffe1891/frontend-hard-mode-interview 牛逼
-* https://github.com/coffe1891/frontend-hard-mode-interview
 * https://lruihao.cn
 * https://a.biugle.cn/
 * https://web-docs.biugle.cn
